@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: bloodstone
+Device maintainer: kamikaonashi
+
+===== 06-11-2026 =====
+
+idk lol

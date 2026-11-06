@@ -1,0 +1,30 @@
+{
+    "response": [
+        {
+            "maintainer": "kamikaonashi",
+            "oem": "Xiaomi",
+            "device": "POCO X5 5G",
+            "filename": "KamiOS-17.0-20261106-bloodstone-v1.1.zip",
+            "download": "https://sourceforge.net/projects/kamisroms/files/kamios/stone/1_1/0611/KamiOS-17.0-20261106-bloodstone-v1.1.zip/download",
+            "timestamp": 1793989310,
+            "md5": "fd494b7243e27b2234d46ea5dffa63c2",
+            "sha256": "1325814e74a0ebe9855b6068aa2e1057b50847fcacea2b15d0b8463d7e64b1b7",
+            "size": 1352528216,
+            "version": "1.1",
+            "os_patch_level": "2026-11-01",
+            "os_sdk_level": 37,
+            "buildtype": "Official",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/kamikaonashi",
+            "dt": "",
+            "common-dt": "",
+            "kernel": ""
+        }
+    ]
+}
