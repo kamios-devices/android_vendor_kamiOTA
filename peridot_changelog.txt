@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: peridot (peridot)
+Device maintainer: Khargosxh18
+
+===== 06-11-2026 =====
+
+idk lol
