@@ -1,0 +1,30 @@
+{
+    "response": [
+        {
+            "maintainer": "KamiKaonashi",
+            "oem": "Xiaomi",
+            "device": "Mi 11",
+            "filename": "KamiOS-17.0-20261106-venus-v1.1.zip",
+            "download": "https://sourceforge.net/projects/kamisroms/files/kamios/venus/1_1/0611/KamiOS-17.0-20261106-venus-v1.1.zip/download",
+            "timestamp": 1793991670,
+            "md5": "7d9bb010681d29fc5c3af737f81d8fcf",
+            "sha256": "4f3ebc614872b2cc5cac5d042acfb00962adfc15c883339fa9e4ee2162e211f8",
+            "size": 2100817382,
+            "version": "1.1",
+            "os_patch_level": "2026-11-01",
+            "os_sdk_level": 37,
+            "buildtype": "Official",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "",
+            "dt": "",
+            "common-dt": "",
+            "kernel": ""
+        }
+    ]
+}
