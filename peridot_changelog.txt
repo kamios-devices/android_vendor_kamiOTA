@@ -4,5 +4,14 @@ Device: peridot (peridot)
 Device maintainer: Khargosxh18
 
 ===== 06-11-2026 =====
-
-idk lol
+- Revert "peridot: props: Set debug.sf.auto_latch_unsignaled to 0"
+- peridot: stop shipping firmware in ota
+- Revert "peridot: powerhint: Tune vm watermark scale factor"
+- peridot: powerhint: make GAME hint lighter and cooler
+- peridot: powerhint: Align INTERACTION and LAUNCH frequencies with OPP voltage walls
+- peridot: powerhint: make ADPF refresh-rate profiles gentler 
+- peridot: Add QTI Bluetooth audio policy module for lhdc codec support
+- peridot: props: force sf renderer to skiavk
+- peridot: silence some spammy logs
+- More underthehood optimizations
+- source side optimization and feats
